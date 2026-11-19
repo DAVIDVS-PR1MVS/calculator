@@ -6,7 +6,7 @@ use std::io::{self, Write};
 use parser::Parser;
 
 fn main() {
-    println!("DOMVS Calculator");
+    println!("CALCULADORA");
     println!("Digite 'exit' para sair.");
 
     loop {
